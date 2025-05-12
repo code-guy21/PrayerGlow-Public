@@ -1,6 +1,7 @@
 # PrayerGlow
 
 <div align="center">
+  <img src="assets/images/logo.png" alt="PrayerGlow Logo" width="200"/>
   <p>Elevating the prayer experience through immersive, tactile spiritual technology</p>
 </div>
 
