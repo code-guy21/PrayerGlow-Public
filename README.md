@@ -8,6 +8,8 @@
 
 **PrayerGlow** is a premium mobile application that elevates the prayer experience through innovative, spiritually enriching features. With an interactive 3D Rosary and a visually dynamic Prayer Garden, PrayerGlow combines cutting-edge technology with a deep sense of purpose.
 
+PrayerGlow is being developed as a professional iOS application for the Apple App Store, with Android support planned as well. The application adheres to App Store guidelines and employs industry best practices for performance, security, and user experience.
+
 ## Core Spiritual Features
 
 ### 3D Interactive Rosary
@@ -75,6 +77,18 @@ PrayerGlow follows these core principles:
 - **Premium features enhance** rather than restrict the prayer experience
 - **Performance and accessibility** across a wide range of devices
 - **Privacy by design** in all aspects of the application
+
+## Development Status
+
+PrayerGlow is currently in active development, with a planned release on the Apple App Store. The application is being built with a focus on:
+
+- Professional-grade performance optimization for smooth 3D interactions
+- Cross-platform compatibility using React Native
+- Compliance with App Store guidelines and requirements
+- Rigorous testing across different iOS devices
+- Thoughtful user experience design for spiritual activities
+
+The development roadmap includes initial iOS release followed by Android support, with ongoing feature enhancements based on user feedback.
 
 ## License
 
